@@ -1,2 +1,2 @@
-FROM gcr.io/google-samples/xtrabackup:1.0
+FROM gcr.io/google-samples/xtrabackup:latest
 MAINTAINER theh8a theh8a@gmail.com
